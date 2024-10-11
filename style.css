@@ -13,6 +13,8 @@ body {
 
 header {
     background: url('https://www.motortrend.com/uploads/sites/5/2021/04/2022-Volkswagen-Golf-GTI-Clubsport-4502.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 100vh;
     color: white;
     display: flex;
